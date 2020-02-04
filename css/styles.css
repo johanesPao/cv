@@ -209,4 +209,10 @@ hr {
   position: relative;
   top: 1px;
 }
-/* This button was generated using CSSButtonGenerator.com */
+
+a {
+  font-family: "Merriweather", serif;
+  text-decoration: none;
+  color: #0dceda;
+  font-weight: normal;
+}
